@@ -14,7 +14,7 @@ using System.Collections.Generic;
 namespace SalesApp
 {
 
-    public class DBHandler
+    public class DBHandler : IDBHandler
     {
 
         private List<Product> ProductData;
