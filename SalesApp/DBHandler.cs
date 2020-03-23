@@ -11,7 +11,7 @@
 
 using System.Collections.Generic;
 
-namespace SalesApp
+namespace SalesAppLibrary
 {
 
     public class DBHandler : IDBHandler

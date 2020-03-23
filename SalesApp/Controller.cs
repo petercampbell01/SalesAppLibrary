@@ -6,7 +6,7 @@
  */
 using System;
 
-namespace SalesApp
+namespace SalesAppLibrary
 {
     public class Controller : IDataReceiver
     {

@@ -1,7 +1,7 @@
 ﻿using System;using System.Collections.Generic;
 
 
-namespace SalesApp
+namespace SalesAppLibrary
 {
     public interface IDBHandler
     {

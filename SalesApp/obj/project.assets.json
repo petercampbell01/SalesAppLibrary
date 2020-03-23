@@ -186,9 +186,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\SalesApp\\SalesApp\\SalesApp.csproj",
-      "projectName": "SalesApp",
-      "projectPath": "D:\\Programming\\SalesApp\\SalesApp\\SalesApp.csproj",
+      "projectUniqueName": "D:\\Programming\\SalesApp\\SalesApp\\SalesAppLibrary.csproj",
+      "projectName": "SalesAppLibrary",
+      "projectPath": "D:\\Programming\\SalesApp\\SalesApp\\SalesAppLibrary.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "D:\\Programming\\SalesApp\\SalesApp\\obj\\",
       "projectStyle": "PackageReference",

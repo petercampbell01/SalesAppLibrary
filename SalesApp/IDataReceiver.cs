@@ -5,7 +5,7 @@
  */
 using System;
 
-namespace SalesApp
+namespace SalesAppLibrary
 {
     public interface IDataReceiver
     {

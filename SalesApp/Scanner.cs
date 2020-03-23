@@ -6,7 +6,7 @@
  * Peter Campbell
  */
 using System;
-namespace SalesApp
+namespace SalesAppLibrary
 {
     public class Scanner
     {

@@ -1,5 +1,5 @@
 ﻿using System;
-using SalesApp;
+using SalesAppLibrary;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace UnitTests_Product
